@@ -1,0 +1,6 @@
+2022-4-2 Project created (Chunyi)
+Project and GitHub repository created 
+
+2022-4-4 First Update (Chunyi)
+1. Terrain Model now is imported into the project.
+2. Complete a basic ground texture and a material function to separate base color, roughness, normal, cavity, AO and displacement date in CR and NOH map.
