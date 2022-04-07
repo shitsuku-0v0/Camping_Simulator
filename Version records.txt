@@ -6,8 +6,11 @@ Project and GitHub repository created
 2. Complete a basic ground texture and a material function to separate base color, roughness, normal, cavity, AO and displacement date in CR and NOH map.
 
 2022-4-5 Update (Chunyi)
-1. Create 6 more textures CR and NOH map.
+1. Create 6 more textures' CR and NOH map.
 2. Create a layered material, now it is able to paint on the terrain.
 
 2022-4-6 Update (Chunyi)
 Textures tiling break out with rotation and camera depth fade.
+
+2022-4-7 Update (Chunyi)
+Textures update: break out tiling with 8 times resample on a single texture and resize.
