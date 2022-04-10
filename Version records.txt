@@ -14,3 +14,9 @@ Textures tiling break out with rotation and camera depth fade.
 
 2022-4-7 Update (Chunyi)
 Textures update: break out tiling with 8 times resample on a single texture and resize.
+
+2022-4-7 3D objects imported (Tamim Ahmed)
+Import some 3D assets to the project (Axe, lighter, flint and knife)
+
+2022-4-10 File System update (Yuanzhuo Lin)
+Fle consolidation
