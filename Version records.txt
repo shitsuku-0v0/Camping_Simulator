@@ -22,4 +22,5 @@ Import some 3D assets to the project (Axe, lighter, flint and knife)
 Fle consolidation
 
 2022-4-11 Function Update (Chunyi Wang)
-World Tessellation function created.
+1. World Tessellation function created.
+2. Ground texture remake with slope blend function.
