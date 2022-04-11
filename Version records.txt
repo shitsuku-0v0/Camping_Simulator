@@ -5,14 +5,14 @@ Project and GitHub repository created
 1. Terrain Model now is imported into the project.
 2. Complete a basic ground texture and a material function to separate base color, roughness, normal, cavity, AO and displacement date in CR and NOH map.
 
-2022-4-5 Update (Chunyi)
+2022-4-5 Function update and textures imported (Chunyi)
 1. Create 6 more textures' CR and NOH map.
 2. Create a layered material, now it is able to paint on the terrain.
 
-2022-4-6 Update (Chunyi)
+2022-4-6 Function  Update (Chunyi)
 Textures tiling break out with rotation and camera depth fade.
 
-2022-4-7 Update (Chunyi)
+2022-4-7 Function Update (Chunyi)
 Textures update: break out tiling with 8 times resample on a single texture and resize.
 
 2022-4-7 3D objects imported (Tamim Ahmed)
@@ -20,3 +20,6 @@ Import some 3D assets to the project (Axe, lighter, flint and knife)
 
 2022-4-10 File System update (Yuanzhuo Lin)
 Fle consolidation
+
+2022-4-11 Function Update (Chunyi Wang)
+World Tessellation function created.
