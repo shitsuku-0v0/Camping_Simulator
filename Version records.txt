@@ -21,6 +21,14 @@ Import some 3D assets to the project (Axe, lighter, flint and knife)
 2022-4-10 File System update (Yuanzhuo Lin)
 Fle consolidation
 
-2022-4-11 Function Update (Chunyi Wang)
+2022-4-11 Function Update (Chunyi)
 1. World Tessellation function created.
 2. Ground texture remake with slope blend function.
+
+2022-4-15 Function and textures update (Chunyi)
+1. Create three new textures' CR and NOH map with 1x and 8x size.
+2.Some new texture functions added.
+3. SlopeBlendingFunction Update: 
+		1)A new feature to layer the terrain by altitude has been added.
+		2Combine the original SlopeBlending function with the new function.
+		3The tops of the two highest mountains on the terrain are now covered with snow.
