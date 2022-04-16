@@ -32,3 +32,5 @@ Fle consolidation
 		1)A new feature to layer the terrain by altitude has been added.
 		2Combine the original SlopeBlending function with the new function.
 		3The tops of the two highest mountains on the terrain are now covered with snow.
+2022-4-16 Function Update (CHunyi)
+SlopeBlendingFunction upgrade: able to use paint textures on the terrain now.
