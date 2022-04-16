@@ -19,11 +19,11 @@ Textures update: break out tiling with 8 times resample on a single texture and 
 Import some 3D assets to the project (Axe, lighter, flint and knife)
 
 2022-4-10 File System update (Yuanzhuo Lin)
-Fle consolidation
+File consolidation
 
 2022-4-11 Function Update (Chunyi)
-1. World Tessellation function created.
-2. Ground texture remake with slope blend function.
+1. World Tessellation function created: Use the height date of the texture to simulate the ground object(Stone, etc).
+2. Ground texture remake with slope blend function: Blend textures based on the slope in the different location of the terrain.
 
 2022-4-15 Function and textures update (Chunyi)
 1. Create three new textures' CR and NOH map with 1x and 8x size.
@@ -32,5 +32,9 @@ Fle consolidation
 		1)A new feature to layer the terrain by altitude has been added.
 		2Combine the original SlopeBlending function with the new function.
 		3The tops of the two highest mountains on the terrain are now covered with snow.
+
 2022-4-16 Function Update (CHunyi)
-SlopeBlendingFunction upgrade: able to use paint textures on the terrain now.
+1. SlopeBlendingFunction upgrade: able to use paint textures on the terrain now.
+2. Exponential Height Fog added:
+		1)Beams of light can be seen when the sun is partially blocked.
+		2)Use Volumetric fog to enhance the layering between near, medium and long-range perspective.
