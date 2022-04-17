@@ -34,11 +34,8 @@ File consolidation
 		3The tops of the two highest mountains on the terrain are now covered with snow.
 
 2022-4-16 Function Update (CHunyi)
-<<<<<<< HEAD
-SlopeBlendingFunction upgrade: able to use paint textures on the terrain now.。。
-=======
 1. SlopeBlendingFunction upgrade: able to use paint textures on the terrain now.
 2. Exponential Height Fog added:
 		1)Beams of light can be seen when the sun is partially blocked.
 		2)Use Volumetric fog to enhance the layering between near, medium and long-range perspective.
->>>>>>> 7eae0a0716812bbf11ce49f5be6b4ac2d81d42cb
+
