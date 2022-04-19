@@ -39,3 +39,5 @@ File consolidation
 		1)Beams of light can be seen when the sun is partially blocked.
 		2)Use Volumetric fog to enhance the layering between near, medium and long-range perspective.
 
+2022-4-18 Procedural foliage function (Chunyi)
+Add a new function and several foliage instance procedurally generate the foliage cover for the terrain
