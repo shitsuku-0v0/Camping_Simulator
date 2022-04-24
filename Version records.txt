@@ -41,3 +41,6 @@ File consolidation
 
 2022-4-18 Procedural foliage function (Chunyi)
 Add a new function and several foliage instance procedurally generate the foliage cover for the terrain
+
+2022-4-24 Day and night cycle (Yuanzhuo Lin)
+Add a day and night cycle function.
