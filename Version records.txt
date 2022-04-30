@@ -44,3 +44,7 @@ Add a new function and several foliage instance procedurally generate the foliag
 
 2022-4-24 Day and night cycle (Yuanzhuo Lin)
 Add a day and night cycle function.
+
+2022-4-30 Game world and blueprint update (Chunyi)
+1. Create a new smaller map(4K)
+2. Create a basic player character blueprint and animation blueprint is applied on it, including basic movement and crouching.
