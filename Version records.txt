@@ -46,5 +46,9 @@ Add a new function and several foliage instance procedurally generate the foliag
 Add a day and night cycle function.
 
 2022-4-30 Game world and blueprint update (Chunyi)
-1. Create a new smaller map(4K)
-2. Create a basic player character blueprint and animation blueprint is applied on it, including basic movement and crouching.
+		1) Create a new smaller map(4K)
+		2) Create a basic player character blueprint and animation blueprint is applied on it, including basic movement and crouching.
+
+2022-5-2 Character animation update (Chunyi)
+		1)Now, the character's neck bone can rotate up and down with the player's perspective rotation.
+		2)Disabled the ability for players to move left and right while the character is running.
