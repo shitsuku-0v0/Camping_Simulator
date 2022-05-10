@@ -52,3 +52,5 @@ Add a day and night cycle function.
 2022-5-2 Character animation update (Chunyi)
 		1)Now, the character's neck bone can rotate up and down with the player's perspective rotation.
 		2)Disabled the ability for players to move left and right while the character is running.
+
+2022-5-10 Fishing logic update and animation imported (Chunyi)
