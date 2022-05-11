@@ -54,3 +54,5 @@ Add a day and night cycle function.
 		2)Disabled the ability for players to move left and right while the character is running.
 
 2022-5-10 Fishing logic update and animation imported (Chunyi)
+
+2022-5-11 Fishing logic and animation blueprint update (Chunyi)
