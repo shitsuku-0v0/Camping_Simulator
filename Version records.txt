@@ -56,3 +56,5 @@ Add a day and night cycle function.
 2022-5-10 Fishing logic update and animation imported (Chunyi)
 
 2022-5-11 Fishing logic and animation blueprint update (Chunyi)
+
+2022-5-15 Fishing function update: character animation completed.(Chunyi)
